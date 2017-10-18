@@ -1,0 +1,16 @@
+#!/bin/sh
+
+function flag_in_image()
+{
+  echo "This will generate CTF flag"
+}
+
+
+function flag_in_exec()
+{
+  echo "Genarating CTF flag "
+  
+}
+
+#Main
+echo "Script to generate CTF flag " 
