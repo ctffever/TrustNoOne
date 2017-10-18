@@ -1,0 +1,6 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/GoogleTrends/data.git
+[submodule "freeCodeCamp"]
+	path = freeCodeCamp
+	url = https://github.com/freeCodeCamp/freeCodeCamp.git
