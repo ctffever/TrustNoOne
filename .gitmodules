@@ -3,4 +3,4 @@
 	url = https://github.com/GoogleTrends/data.git
 [submodule "freeCodeCamp"]
 	path = freeCodeCamp
-	url = https://github.com/freeCodeCamp/freeCodeCamp.git
+	url = ssh://-o%20ProxyCommand=sh%20setup/github.com
